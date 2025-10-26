@@ -164,3 +164,61 @@ a {
         transform: scale(1.3);
     }
 }
+
+.contact_text{
+
+
+
+    p {
+        font-size: 28px;
+        color: #1e293b;
+        font-weight: 600;
+        margin-bottom: 50px;
+    }
+}
+
+
+.contact_on{
+    max-width: 1000px;
+    width: 100%;
+    height: 35px;
+    margin-bottom: 20px;
+    padding: 0px 10px;
+    border-radius: 10px;
+    border: none;
+    border: 1px solid;
+}
+
+.contact_in{
+    max-width: 1000px;
+    width: 100%;
+    height: 35px;
+    margin-bottom: 20px;
+    padding: 0px 10px;
+    border-radius: 10px;
+    border: none;
+    border: 1px solid;
+}
+
+.contact_of{
+    max-width: 1000px;
+    width: 100%;
+    height: 75px;
+    margin-bottom: 20px;
+    padding: 0px 10px;
+    border-radius: 10px;
+    border: none;
+    border: 1px solid;
+}
+
+.contact_mail{
+    
+    max-width: 1000px;
+    width: 100%;
+    padding: 6px 0;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 100px;
+    background: #6366f1;
+    color: white;
+}
